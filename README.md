@@ -1,2 +1,3 @@
-# NETFLIX-CLONE-
-NETFLIX C;ONE
+netflix-clone
+Netflix landing page clone built using HTML, CSS and JavaScript
+
